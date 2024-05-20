@@ -1,1 +1,1 @@
-# CS106-value_iteration-policy_iteration
+# value_iteration-policy_iteration
